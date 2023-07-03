@@ -54,5 +54,5 @@
 <br> 
 
 <p align = "center">
-	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="[https://quotes-github-readme.vercel.app/api](https://wallpapercave.com/wp/wp9939818.png)?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
+	<img alt = "Quote" src="https://wallpapercave.com/wp/wp9939818.png)></img>
 </p>
