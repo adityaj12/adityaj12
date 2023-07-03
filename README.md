@@ -54,5 +54,5 @@
 <br> 
 
 <p align = "center">
-	<img alt = "Quote" src="https://wallpapercave.com/wp/wp9939818.png)></img>
+	<a href="https://github.com/adityaj12/github-readme-quotes"> <img alt = "Quote" src="https://wallpapercave.com/wp/wp9939818.png">
 </p>
